@@ -23,13 +23,7 @@ Data Transformation: Power Query used for ETL (Extract, Transform, Load) process
 
 📂 Files in this Repository
 Finance Report.pbix: The complete Power BI Dashboard file.
-
 Financial Sample.xlsx: The raw dataset used for the analysis.
-
-Screenshots/: (Optional) Images of the dashboard for quick viewing.
-
-🤝 Acknowledgments
-Special thanks to Vignesh Muthuvelan for the mentorship and guidance throughout this internship. Grateful to AICTE and Microsoft Elevate for providing this practical learning platform.
 
 Contact:
 Feel free to connect with me on www.linkedin.com/in/md-muntazir-alam-74a9433a0 for any discussions regarding Data Analytics!
