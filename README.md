@@ -1,4 +1,5 @@
 Finance Executive Dashboard - AICTE Microsoft Elevate Internship
+
 📌 Project Overview
 This repository contains a Finance Executive Dashboard developed as part of the AICTE Microsoft Elevate Internship Program. The project demonstrates the transformation of raw financial data into an interactive visual report that provides key business insights into global sales, profitability, and market trends.
 
